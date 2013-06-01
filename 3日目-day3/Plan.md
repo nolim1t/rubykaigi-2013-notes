@@ -8,7 +8,7 @@
 - (Hall A) Casual Log Collection and Querying with fluent-plugin-riak (14:30 - 15:00) [JA]
 - (Hall A) Complext Event Processing on Ruby and Fluentd (15:00 - 15:30) [JA]
 - (Hall A) Unfactoring (16:00 - 16:30) [EN]
-- (Hall A) Contributing to Ruby (16:30 - 17:00) [EN]
+- (Hall B) Paired ruby (16:30 - 17:00) [EN]
 - (Hall A) Keynote Fight with Diversity (17:00 - 17:30) [JA]
 
 <h3>Unofficial</h3>
