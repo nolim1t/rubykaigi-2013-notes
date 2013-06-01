@@ -1,6 +1,15 @@
 #!/usr/bin/env ruby
-# ARGV[0] 
-File.open(ARGV[0], 'a') do |f|
-    f << "![#{ARGV[1]}](#{ARGV[2]})\n"
-end
+# ARGV[0] = The text
+# AAGV[1] = Link
 
+if ENV['filename'] != nil then
+    if ARGV[0] != nil and ARGV[1] != nil then
+        File.open(ENV['filename'], 'a') do |f|
+            f << "![#{ARGV[0]}](#{ARGV[1]})\n"
+        end
+    else
+        puts "Please specify text and an image link"
+    end
+else
+    puts "Please set a 'filename'"
+end
