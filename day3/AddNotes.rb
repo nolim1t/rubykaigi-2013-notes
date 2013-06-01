@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # ARGV[0] 
-File.open(ARGV[0], 'a') do |f|
-    f << "* #{ARGV[1]}\n"
+File.open(ENV['filename'], 'a') do |f|
+    f << "* #{ARGV[0]}\n"
 end
 
