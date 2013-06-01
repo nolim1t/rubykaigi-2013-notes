@@ -8,3 +8,4 @@ Hall B
 * Interesting.. Thin is based on eventmachine
 * Where unicorn talks to rack (twitpic)[http://pic.twitter.com/n4xfMu8s7p]
 * code on @dabit github account
+* slides --> https://github.com/dabit/rails-server-browser
