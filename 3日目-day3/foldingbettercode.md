@@ -5,3 +5,4 @@ Hall B
 * puts returns nil so you dont need to use return in a method
 * codeclimate.com to measure how well you are coding
 * @halogenandtoast on twitter and github
+* When doing beautiful code. Have to know when to 'break the rules'
