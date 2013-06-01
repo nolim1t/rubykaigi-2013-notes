@@ -17,6 +17,7 @@ Usage (for creating new session notes)
 TODO
 ----------------------
 - Extend this to cover other events
+    - Make sinatra or rack app (using redcarpet gem) to render the documents nicely
     - Make it a rubygem!
     - Self contained web server (could be useful for extending to mobile)
     - Make it tweet notes as well
