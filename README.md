@@ -13,3 +13,8 @@ Usage
 	- ./AddNotes.rb 'Bullet point'
 	- Optionally add links using (same line): ./AddLink 'link text' 'URL'
 	- Optionally add images using (will be on a new line): ./AddImage 'alt text' 'Image URL'
+
+TODO
+----------------------
+- Make it tweet notes as well
+
