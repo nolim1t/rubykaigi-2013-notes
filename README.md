@@ -16,5 +16,9 @@ Usage
 
 TODO
 ----------------------
-- Make it tweet notes as well
+- Extend this to cover other events
+    - Make it a rubygem!
+    - Self contained web server (could be useful for extending to mobile)
+    - Make it tweet notes as well
+
 
